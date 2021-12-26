@@ -43,11 +43,11 @@
                                 class="btn btn-outline-primary">Login</button>
                                 <span class="sr-only">(current)</span></a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="{{ url('register') }}"> <button type="button"
-                                class="btn btn-outline-primary">Register</button> <span
-                                class="sr-only">(current)</span></a>
-                    </li>
+{{--                    <li class="nav-item">--}}
+{{--                        <a class="nav-link" href="{{ url('register') }}"> <button type="button"--}}
+{{--                                class="btn btn-outline-primary">Register</button> <span--}}
+{{--                                class="sr-only">(current)</span></a>--}}
+{{--                    </li>--}}
                 @endif
             @else
 
